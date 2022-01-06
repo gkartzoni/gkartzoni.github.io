@@ -1,1 +1,21 @@
-Hello World
+<body>
+  <div>
+    
+    <div>
+      <img src="img/profile.PNG" width="200"/>
+      <h1>Ioanna Gkartzonika</h1>
+      <h4>Researcher </h4>
+    </div>
+    
+    <div>
+      <p>
+        Computer Vision, Machine Learning, Deep Learning
+      </p>
+      <ul>
+        <li><a href="https://github.com/ianjsikes">Github</a></li>
+        <li><a href="https://medium.com/@ianjsikes">Medium</a></li>
+      </ul>
+    </div>
+    
+  </div>
+</body>
